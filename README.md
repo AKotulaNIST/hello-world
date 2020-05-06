@@ -1,2 +1,4 @@
 # hello-world
-This repository is following the "Hello World" page in GitHub Guides
+
+Hi all, this is a test message.
+This confirms that I'm following the guide.
